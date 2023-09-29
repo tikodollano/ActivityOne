@@ -6,7 +6,7 @@ package activityone1;
 
 /**
  *
- * @author Asus Vivobook
+ * @author dollano,jericho sam
  */
 public class ActivityOne1 {
 
